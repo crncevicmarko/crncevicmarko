@@ -57,7 +57,7 @@ Documentation and API Managment:
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" width="50" height="50"/>&nbsp;
 </div>
 
-<hr/>
+## 
 
 Backend Technologies & Patterns:
 - Saga
