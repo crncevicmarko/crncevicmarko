@@ -8,28 +8,6 @@ I'm a young developer from Serbia, currently studying at the University of Novi 
 
 <hr/>
 
-Backend Technologies & Patterns:
-- Saga
-- Event Sourcing and CQRS
-- API Gateway
-- Web socket
-- MVC (Model-View-Controller)
-- MVVM (Model-View-ViewModel)
-
-Security:
-- Spring Security
-- HTTPS
-- Data Validation
-- Authentication and Access Control
-- Data Protection (Encryption, Hashing + Salting)
-- Logging
-
-Programming Concepts:
-- Object-Oriented Programming (OOP)
-- UML
-
-<hr/>
-
 Frontend Development:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;
@@ -80,3 +58,26 @@ Documentation and API Managment:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" width="50" height="50"/>&nbsp;
 </div>
+
+<hr/>
+
+Backend Technologies & Patterns:
+- Saga
+- Event Sourcing and CQRS
+- API Gateway
+- Web socket
+- MVC (Model-View-Controller)
+- MVVM (Model-View-ViewModel)
+
+Security:
+- Spring Security
+- HTTPS
+- Data Validation
+- Authentication and Access Control
+- Data Protection (Encryption, Hashing + Salting)
+- Logging
+
+Programming Concepts:
+- Object-Oriented Programming (OOP)
+- UML
+
