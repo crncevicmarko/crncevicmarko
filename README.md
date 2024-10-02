@@ -1,12 +1,10 @@
-## Hi there 👋, I'm Marko!
+## :space_invader: &nbsp;About Me
 
 I'm a young developer from Serbia, currently studying at the University of Novi Sad's Faculty of Technical Sciences. Passionate about tackling difficult problems and constantly learning, I enjoy diving into new tech and taking on projects that push my abilities. Always looking for opportunities to grow my skills and experience, I'm excited about the possibilities each challenge brings.
 
-<hr/>
+## ![crncevicmarko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crncevicmarko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crncevicmarko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr/>
+## Main tech knowledge
 
 Frontend Development:
 <div>
