@@ -63,7 +63,6 @@ Documentation and API Managment:
 
 Backend Technologies & Patterns:
 - Saga
-- Event Sourcing and CQRS
 - API Gateway
 - Web socket
 - MVC (Model-View-Controller)
