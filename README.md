@@ -4,7 +4,7 @@ I'm a young developer from Serbia, currently studying at the University of Novi 
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crncevicmarko&show_icons=true&locale=en&layout=compact" alt="crncevicmarko" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crncevicmarko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
